@@ -2,7 +2,7 @@
 
 Scratch Pad is a simple text editor application built using PySide6 (Qt for Python) framework.
 
-![Capture](https://github.com/Mlindens/Scratch_Pad/assets/83295029/0a738513-72b4-4b07-a956-5921a7434deb)
+![Capture](https://github.com/Mlindens/Scratch_Pad/assets/83295029/e78f0b56-ec71-4715-8cbc-d6c01397f339)
 
 ## Description
 The Scratch Pad provides basic text editing features such as:
